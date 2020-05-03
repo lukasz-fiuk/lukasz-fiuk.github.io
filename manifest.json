@@ -3,7 +3,7 @@
 	"lang" : "en",
 	"name" : "Dooday",
 	"scope" : "/",
-	"display" : "browser",
+	"display" : "standalone",
 	"start_url" : "https://lukasz-fiuk.github.io/",
 	"short_name" : "Dooday",
 	"theme_color" : "transparent",
@@ -18,5 +18,6 @@
 			"sizes": "512x512"
 		}],
 	"url" : "https://lukasz-fiuk.github.io/",
+	"screenshots" : [],
 	"generated" : "true"
 }
