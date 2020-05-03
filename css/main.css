@@ -254,7 +254,6 @@ body::-webkit-scrollbar {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0F1020', endColorstr='#0f1020',GradientType=0 );
   /* ie6-9 */
   max-width: 750px;
-  position: relative;
   margin: auto;
 }
 
