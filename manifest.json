@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Dooday",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://lukasz-fiuk.github.io/",
+	"short_name" : "Dooday",
+	"theme_color" : "transparent",
+	"description" : "",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://lukasz-fiuk.github.io/favicon.png",
+			"sizes": "512x512"
+		}],
+	"url" : "https://lukasz-fiuk.github.io/",
+	"generated" : "true"
+}
