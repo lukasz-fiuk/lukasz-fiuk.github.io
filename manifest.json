@@ -6,7 +6,7 @@
 	"display" : "standalone",
 	"start_url" : "https://lukasz-fiuk.github.io/",
 	"short_name" : "Dooday",
-	"theme_color" : "transparent",
+	"theme_color" : "#0F1020",
 	"description" : "",
 	"orientation" : "any",
 	"background_color" : "#0F1020",
